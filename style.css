@@ -377,7 +377,7 @@ iframe{
 
 @media (max-width: 370px){
     .map iframe{
-        width: 300px;
+        width: 250px;
     }
 
     .detail-ctc input{
